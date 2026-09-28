@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Api.csproj",
+        "projectName": "Api",
+        "projectPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\agusn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\agusn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Aplicacion\\Aplicacion.csproj"
+              },
+              "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Aplicacion\\Aplicacion.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Aplicacion\\Aplicacion.csproj",
+        "projectName": "Aplicacion",
+        "projectPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Aplicacion\\Aplicacion.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Infraestructura\\Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Infraestructura\\Infraestructura.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\Domain.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Infraestructura\\Infraestructura.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Infraestructura\\Infraestructura.csproj",
+        "projectName": "Infraestructura",
+        "projectPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Infraestructura\\Infraestructura.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

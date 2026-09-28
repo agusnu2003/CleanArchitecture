@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D852A63-A545-42FF-B754-8572616CF9A1}|Api\\Api.csproj|c:\\users\\agusn\\source\\repos\\practica_clean_architecture\\api\\controllers\\videojuegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D852A63-A545-42FF-B754-8572616CF9A1}|Api\\Api.csproj|solutionrelative:api\\controllers\\videojuegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D852A63-A545-42FF-B754-8572616CF9A1}|Api\\Api.csproj|c:\\users\\agusn\\source\\repos\\practica_clean_architecture\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D852A63-A545-42FF-B754-8572616CF9A1}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D852A63-A545-42FF-B754-8572616CF9A1}|Api\\Api.csproj|c:\\users\\agusn\\source\\repos\\practica_clean_architecture\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D852A63-A545-42FF-B754-8572616CF9A1}|Api\\Api.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06939869-BAA5-46BA-868C-8E5E3DDFB3FE}|Infraestructura\\Infraestructura.csproj|c:\\users\\agusn\\source\\repos\\practica_clean_architecture\\infraestructura\\videojuegorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06939869-BAA5-46BA-868C-8E5E3DDFB3FE}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\videojuegorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B8FC1F-3FB4-4B85-8918-C29FCE2F50B1}|Aplicacion\\Aplicacion.csproj|c:\\users\\agusn\\source\\repos\\practica_clean_architecture\\aplicacion\\videojuegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B8FC1F-3FB4-4B85-8918-C29FCE2F50B1}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\videojuegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098138AA-9833-4267-8A28-3ACE5255E578}|Domain\\Domain.csproj|c:\\users\\agusn\\source\\repos\\practica_clean_architecture\\domain\\videojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098138AA-9833-4267-8A28-3ACE5255E578}|Domain\\Domain.csproj|solutionrelative:domain\\videojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098138AA-9833-4267-8A28-3ACE5255E578}|Domain\\Domain.csproj|c:\\users\\agusn\\source\\repos\\practica_clean_architecture\\domain\\ivideojuegorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098138AA-9833-4267-8A28-3ACE5255E578}|Domain\\Domain.csproj|solutionrelative:domain\\ivideojuegorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D852A63-A545-42FF-B754-8572616CF9A1}|Api\\Api.csproj|c:\\users\\agusn\\source\\repos\\practica_clean_architecture\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D852A63-A545-42FF-B754-8572616CF9A1}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:39:33.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoJuegoController.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Controllers\\VideoJuegoController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\VideoJuegoController.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Controllers\\VideoJuegoController.cs",
+              "RelativeToolTip": "Api\\Controllers\\VideoJuegoController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:04:04.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:01:09.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T00:00:54.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVideoJuegoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\IVideoJuegoRepo.cs",
+              "RelativeDocumentMoniker": "Domain\\IVideoJuegoRepo.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\IVideoJuegoRepo.cs",
+              "RelativeToolTip": "Domain\\IVideoJuegoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:32:55.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideoJuegoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Infraestructura\\VideoJuegoRepo.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\VideoJuegoRepo.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Infraestructura\\VideoJuegoRepo.cs",
+              "RelativeToolTip": "Infraestructura\\VideoJuegoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:23:39.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoJuegoService.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Aplicacion\\VideoJuegoService.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\VideoJuegoService.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Aplicacion\\VideoJuegoService.cs",
+              "RelativeToolTip": "Aplicacion\\VideoJuegoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:23:24.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VideoJuego.cs",
+              "DocumentMoniker": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\VideoJuego.cs",
+              "RelativeDocumentMoniker": "Domain\\VideoJuego.cs",
+              "ToolTip": "C:\\Users\\agusn\\source\\repos\\Practica_Clean_Architecture\\Domain\\VideoJuego.cs",
+              "RelativeToolTip": "Domain\\VideoJuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T23:23:11.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

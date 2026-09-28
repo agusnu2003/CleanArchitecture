@@ -1,0 +1,11 @@
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\bin\Debug\Aplicacion.dll
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\bin\Debug\Domain.dll
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\bin\Debug\Infraestructura.dll
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\bin\Debug\Domain.pdb
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\bin\Debug\Infraestructura.pdb
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\obj\Debug\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\obj\Debug\Aplicacion.csproj.Up2Date
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\obj\Debug\Aplicacion.dll
+C:\Users\agusn\source\repos\Practica_Clean_Architecture\Aplicacion\obj\Debug\Aplicacion.pdb
